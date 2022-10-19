@@ -1,0 +1,30 @@
+li {
+    list-style: none;
+    text-align: center;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+li a{
+    text-decoration: none;
+
+}
+
+hr {
+    padding-top: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: #F2E9E4;
+}
+
+.container {
+    width: 10000px; height: 500px; border: 1px solid; margin: 0 auto;
+}
