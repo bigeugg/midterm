@@ -19,12 +19,27 @@ hr {
 
 h1 {
     text-align: center;
+    font-family: "Indie Flower";
 }
 
 body {
     background-color: #F2E9E4;
 }
 
-.container {
-    width: 10000px; height: 500px; border: 1px solid; margin: 0 auto;
+#box1 {
+    background-color: #C9ADA7;
+    height: 350px;
+    max-width: none;
+    
+}
+
+p {
+    text-align: center;
+    font-family: 'Montserrat';
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
